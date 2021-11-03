@@ -1,0 +1,175 @@
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port undefined!","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"The migration directory is corrupt, the following files are missing: 20201104145358_initial.ts, 20201231155331_offers.ts, 20210114174020_certificates.ts, 20210131134437_add_fcm_token.ts, 20210213135554_add_certified_column.ts","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"create table \"users\" (\"id\" serial primary key, \"name\" varchar(255) not null, \"age\" varchar(255) not null, \"email\" varchar(255) not null, \"age\" varchar(255) not null, \"gender\" boolean not null, \"birthdate\" timestamptz not null, \"visited_at\" timestamptz null, \"created_at\" timestamptz default CURRENT_TIMESTAMP, \"updated_at\" timestamptz default CURRENT_TIMESTAMP) - column \"age\" specified more than once","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"create table \"users\" (\"id\" serial primary key, \"name\" varchar(255) not null, \"age\" varchar(255) not null, \"email\" varchar(255) not null, \"age\" varchar(255) not null, \"gender\" boolean not null, \"birthdate\" timestamptz not null, \"visited_at\" timestamptz null, \"created_at\" timestamptz default CURRENT_TIMESTAMP, \"updated_at\" timestamptz default CURRENT_TIMESTAMP) - column \"age\" specified more than once","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"res.send is not a function","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"res.send is not a function","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"res.send is not a function","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"res.send is not a function","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"password authentication failed for user \"postgres\"","level":"error"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 3000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
+{"message":"🚀 Server started on port 4000","level":"info"}
+{"message":"Database connection established!","level":"info"}
